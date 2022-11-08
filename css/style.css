@@ -36,11 +36,11 @@ body{
 }
 
 .btn{
-    margin-top: -60vh;
+      margin-top: 3vh;
 }
 
 h3{
-    margin-top: -20vh !important;
+    margin-top: 7vh !important;
     font-family: cursive;
     color: rgba(46, 8, 66, 0.614);  
 }
