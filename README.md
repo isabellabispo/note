@@ -17,3 +17,5 @@ no botão abaixo </p>
 </ul>
 </footer>
 </div>
+
+<p align="center"> *Confira no github Pages*</p>
